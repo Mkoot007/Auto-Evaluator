@@ -1,14 +1,5 @@
 # `Auto-evaluator` :brain: :memo:
 
-<!-- API -->
-
-<!-- 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 -->
-
-<!-- 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 -->
-
-<!-- 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 -->
-
-
 > **Note**
 > See the HuggingFace space for this app: https://huggingface.co/spaces/rlancemartin/auto-evaluator
 
